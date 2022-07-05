@@ -1,5 +1,5 @@
 """
-__author__ = "sato064"
+__author__ = "sato064, hanehaneland"
 """
 from transformers import T5Tokenizer, AutoModelForCausalLM
 import torch
